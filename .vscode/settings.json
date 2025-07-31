@@ -1,3 +1,16 @@
-{
-    
-}
+"sqltools.connections": [
+  {
+    "name": "Supabase Project",
+    "driver": "PostgreSQL",
+    "server": "aws-0-eu-west-3.pooler.supabase.com",
+    "port": 6543,
+    "database": "postgres",
+    "username": "postgres.dzcnmebryowcxwfvrgrr",
+    "password": "7SaX_LEKIBBITZ_",
+    "pgOptions": {
+      "ssl": {
+        "rejectUnauthorized": false
+      }
+    }
+  }
+]
